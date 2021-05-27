@@ -30,13 +30,14 @@ a{
     font-weight: 400;
 }
 
-.auth-btn{
+.btn{
     text-decoration: none;
     padding: 15px 30px 15px 30px;
     display: inline-block;
+    border: none;
 }
 
-.reg{
+.primary{
     background: #1A75E8;
     border-radius: 5px;
     color: #fff;
